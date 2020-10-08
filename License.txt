@@ -1,0 +1,9 @@
+This repository is under Creative Commons BY-NC-SA 3.0 DE license.
+You can not use this code for commercial purposes.
+You can not use this code without naming the author.
+You can not give away this code under a different license.
+
+Dieses Repository steht unter der Creative Commons BY-NC-SA 3.0 DE Lizenz.
+Sie können diesen Code nicht für kommerziele Zwecke nutzen.
+Sie können diesen Code nicht nutzen, ohne den Autor zu nennen.
+Sie können diesen Code nicht unter einer anderen Lizenz weitergeben.
